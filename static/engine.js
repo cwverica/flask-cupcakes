@@ -50,3 +50,5 @@ async function loadCupcakes() {
 
 
 $(document).ready(loadCupcakes());
+
+// This is a test
